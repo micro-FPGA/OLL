@@ -1,3 +1,5 @@
+![Open Love License](./docs/OLL2_640.jpg)
+
 # OLL Open Love License v 1.0
 
 see OLL.md and OLL.txt for the license text and usage example
