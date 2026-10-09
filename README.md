@@ -1,4 +1,4 @@
-![Open Love License](./docs/OLL1_640x.jpg)
+![Open Love License](./docs/OLL1_640.jpg)
 
 # OLL Open Love License v 1.0
 
